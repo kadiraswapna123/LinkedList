@@ -1,0 +1,5 @@
+C:\LinkedList\LinkedListProgram\LinkedListProgram\obj\Debug\net6.0\LinkedListProgram.csproj.AssemblyReference.cache
+C:\LinkedList\LinkedListProgram\LinkedListProgram\obj\Debug\net6.0\LinkedListProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\LinkedList\LinkedListProgram\LinkedListProgram\obj\Debug\net6.0\LinkedListProgram.AssemblyInfoInputs.cache
+C:\LinkedList\LinkedListProgram\LinkedListProgram\obj\Debug\net6.0\LinkedListProgram.AssemblyInfo.cs
+C:\LinkedList\LinkedListProgram\LinkedListProgram\obj\Debug\net6.0\LinkedListProgram.csproj.CoreCompileInputs.cache
